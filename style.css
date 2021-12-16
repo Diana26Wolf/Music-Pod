@@ -1,0 +1,125 @@
+body {
+    background: rgb(195, 121, 190);
+    background: radial-gradient(circle, rgba(195, 121, 190, 1) 0%, rgba(55, 0, 0, 1) 94%);
+    color: white;
+}
+
+.modal {
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 10px;
+    color: white;
+}
+
+#tn {
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(126, 126, 126, 1) 94%);
+}
+
+#od {
+    background: rgb(112, 0, 0);
+    background: radial-gradient(circle, rgba(112, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+#jo {
+    background: rgb(145, 180, 255);
+    background: radial-gradient(circle, rgba(145, 180, 255, 1) 0%, rgba(18, 0, 110, 1) 100%);
+}
+
+#sc {
+    background: rgb(94, 111, 148);
+    background: radial-gradient(circle, rgba(94, 111, 148, 1) 0%, rgba(8, 0, 46, 1) 99%);
+}
+
+#ab {
+    background: rgb(130, 38, 10);
+    background: radial-gradient(circle, rgba(130, 38, 10, 1) 0%, rgba(28, 11, 0, 1) 99%);
+}
+
+#ts {
+    background: rgb(168, 218, 213);
+    background: radial-gradient(circle, rgba(168, 218, 213, 1) 0%, rgba(124, 0, 82, 1) 100%);
+}
+
+#h {
+    background: rgb(97, 53, 0);
+    background: radial-gradient(circle, rgba(97, 53, 0, 1) 0%, rgba(62, 17, 0, 1) 100%);
+}
+
+#sm {
+    background: rgb(34, 83, 140);
+    background: radial-gradient(circle, rgba(34, 83, 140, 1) 0%, rgba(2, 0, 56, 1) 100%);
+
+}
+
+#hs {
+    background: rgb(176, 111, 76);
+    background: radial-gradient(circle, rgba(176, 111, 76, 1) 0%, rgba(60, 21, 0, 1) 100%);
+}
+
+#sweater:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#alivee:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#all:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#cross:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#water:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#new:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#lilithh:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#piece:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+#two:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+button {
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#fa {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#fb {
+    margin-left: 170px;
+    margin-right: 170px;
+}
+#fc {
+    margin-left: 200px;
+    margin-right: 210px;   
+}
